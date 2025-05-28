@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/bin/Debug/net6.0/shoopingBill
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/bin/Debug/net6.0/shoopingBill.deps.json
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/bin/Debug/net6.0/shoopingBill.runtimeconfig.json
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/bin/Debug/net6.0/shoopingBill.dll
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/bin/Debug/net6.0/shoopingBill.pdb
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/shoopingBill.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/shoopingBill.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/shoopingBill.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/shoopingBill.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/shoopingBill.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/shoopingBill.dll
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/refint/shoopingBill.dll
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/shoopingBill.pdb
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/shoopingBill.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/shooping/shoopingBill/obj/Debug/net6.0/ref/shoopingBill.dll
